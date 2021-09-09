@@ -1,0 +1,180 @@
+body {
+    width: 1330px;
+    font-family: 'Nunito';}
+a, a:hover, a:active {
+    text-decoration: none;
+    color: white;}
+.row {flex-wrap: wrap;}
+nav {
+    padding: 0 20px 0px 20px;
+    width: 100%;}
+nav img {margin: 20px 0 20px 80px;}
+nav ul {margin: 50px 0 0 500px;}
+nav ul li{
+    display: inline-block;
+    margin: 0 10px;}
+.b {
+    font-size: 20px;
+    font-weight: 900;}
+.log {
+    font-size: 20px;
+    margin: 40px 0 0 80px;
+    border-radius: 0px;
+    height: 45px;
+    width: 130px;
+    color: white;
+    background-color: #591024;}
+.board {
+    padding: 0 20px 0px 20px;
+    text-align: center;
+    color: white;
+    width: 1349px;
+    background-image: url("../data/images/creative-people-sitting-table-boardroom%207.png");}
+h1 {
+    padding-top: 120px;
+    font-size: 52px;
+    font-weight: 900}
+.view {
+    font-size: 25px;
+    font-weight: 900;
+    margin-top: 80px;
+    padding-top: 10px;
+    height: 60px;
+    width: 300px;
+    color: white;
+    border-radius: 20px;
+    background-color: #D86713;}
+.third {
+    padding-top: 180px;
+    display: block;
+    width: 150px;
+    margin: auto;
+    padding-bottom: 40px;}
+.third img {
+    width: 15px;
+    height: 15px;
+    margin-top: 12px;
+    margin-left: 15px;}
+.gain {
+    padding: 0 20px 0px 20px;
+    width: 100%;
+    text-align: center;
+    margin-top: 40px;}
+h2 {
+    font-weight: 900;
+    color: #D86713;
+    margin-bottom: 60px;}
+.box1 {
+    margin-bottom: 40px;
+    font-weight: 900;
+    font-size: 20px;
+    margin-left: 180px;
+    text-justify:auto;
+    width: 220px;}
+.box2 {
+    margin-bottom: 40px;
+    font-weight: 900;
+    font-size: 20px;
+    margin-left: 400px;
+    text-justify:auto;
+    width: 185px;}
+.can {
+    padding: 40px;
+    border-radius: 8px;
+    background: #D86713;
+    height: 180px;
+    width: 180px;}
+.inn {
+    margin: auto;
+    padding: 45px;
+    width: 80%;
+    color: white;
+    background: #0D4447;
+    border-radius: 30px;}
+.inn h1 {
+    padding-top: 0px;
+    padding-bottom: 120px;}
+h5.two {
+    padding-right: 120px;
+    padding-left: 20px;}
+.inn img {
+    margin-left: 130px;
+    height: 280px;
+    width: 400px;}
+.mont {
+    width: 100%;
+    font-weight: 900;
+    padding: 150px;
+    padding-top: 120px;
+    padding-bottom: 40px;}
+.about {
+    padding-right: 40px;
+    width: 54%;}
+.about h2 {
+    margin-bottom: 20px;
+    color: #591024;}
+.mont img {
+    padding-top: 20px;
+    margin-left: 50px;
+    border-radius: 10px;
+    height: 540px;}
+.our {width: 100%;}
+.our h2 {margin-bottom: 40px;}
+.cone {
+    margin-bottom: 40px;
+    font-weight: 900;
+    font-size: 20px;
+    margin-left: 180px;
+    text-align: center;}
+.lit {margin-bottom: 20px;}
+footer {
+    width: 1362px;
+    padding: 30px 0px 50px 120px;
+    color: white;
+    background: #0D4447;}
+.hay {width: 22%;}
+.hay img {
+    width: 140px;
+    height: 100px;}
+.hay h4 {
+    margin-top: 60px;
+    font-size: 23px;}
+.bee {width: 30%;}
+.foot_list {margin-top: 50px;}
+.foot_list ul li {
+    margin: 20px 0 0 70px;
+    list-style: none;}
+.copy {
+    margin: 20px 0 0 30px;
+    text-align: center;
+    opacity: 0.5;}
+.cee {
+    margin-left: 40px;
+    width: 35%;}
+.c {
+    font-size: 18px;
+    font-weight: 900;
+    font-size: 20px;
+    margin: 0px 0 0 0px;
+    border-radius: 5px;
+    height: 45px;
+    width: 150px;
+    color: #0D4447;
+    background-color: #ffffff;}
+.cee .row h4 {margin: 8px 50px 0 10px;}
+.media h4 {
+    margin: 140px 0 0 280px;
+    font-size: 18px;}
+.acc .face {margin: 0 0 0 280px;}
+.acc img {margin: 0 12px; 0 0;}
+
+
+@media screen and (max-width: 1024px) {}
+@media screen and (max-width: 768px) {}
+@media screen and (max-width: 425px) {}
+@media screen and (max-width: 414px) {}
+@media screen and (max-width: 411px) {}
+@media screen and (max-width: 375px) {}
+@media screen and (max-width: 360px) {}
+@media screen and (max-width: 320px) {}
+   
